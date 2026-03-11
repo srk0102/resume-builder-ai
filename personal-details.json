@@ -1,0 +1,73 @@
+{
+  "name": "Siva RamaKrishna",
+  "title": "Full Stack / React Native Developer",
+  "email": "sivarama0102200@gmail.com",
+  "phone": "+1 (669) 241-0735",
+  "location": "Santa Clara, CA",
+
+  "experiences": [
+    {
+      "company": "WOW! Colorado",
+      "role": "Full Stack / React Native Developer",
+      "startDate": "August 2023",
+      "endDate": "Present",
+      "context": "Full stack + mobile app development for internet/telecom SaaS platform. React + TypeScript web app and React Native (Expo) mobile app for customers and field techs. NestJS microservices backend with REST and GraphQL/Apollo APIs. FastAPI (Python) for AI/ML services. Built LangChain + RAG pipeline (pgvector + Pinecone) for AI-powered internal knowledge base. LangGraph for agentic AI workflows automating customer support and ticket routing. OpenAI API integration. Supabase for real-time data, auth, and PostgreSQL. Redis for caching and pub/sub. AWS — ECS Fargate, Lambda, S3, CloudFront, RDS, SQS, EventBridge, CloudWatch. Terraform for infra as code. Docker + Kubernetes. CI/CD with GitHub Actions. Prisma ORM. Datadog + Splunk monitoring. Led team of 4. Agile/Scrum."
+    },
+    {
+      "company": "Equinix",
+      "role": "Full Stack / React Native Developer",
+      "startDate": "January 2021",
+      "endDate": "July 2023",
+      "context": "Data center and network SaaS portal with React + TypeScript frontend and React Native mobile app for field engineers. NestJS and Express backend APIs. GraphQL with Apollo Server and Apollo Client. Supabase + PostgreSQL for data layer and real-time features. Prisma ORM. Redis for caching. AWS — EC2, S3, RDS, ECS Fargate, Lambda, SQS, API Gateway, CloudFront, Route53. Kong API Gateway for enterprise B2B API management, rate limiting, and auth. AWS App Mesh + Envoy sidecar proxy for service mesh across microservices. Docker + Kubernetes (self-managed on EC2). CI/CD pipelines with GitHub Actions. JWT + OAuth 2.0 auth. Jest + Cypress testing. Integrated LangChain for AI documentation search (late 2022). Agile/Scrum with JIRA."
+    },
+    {
+      "company": "PNC Bank",
+      "role": "Software Engineer",
+      "startDate": "May 2020",
+      "endDate": "January 2021",
+      "context": "Backend microservices for banking and fintech. NestJS + Express REST APIs and GraphQL with Apollo for internal data aggregation. FastAPI (Python) for data processing services. Supabase + PostgreSQL + Sequelize ORM. Redis for session management and caching. AWS Lambda for serverless event-driven processing, SQS for message queuing, SNS for notifications, API Gateway. LDAP + OAuth 2.0 for enterprise auth. ELK Stack (Elasticsearch, Logstash, Kibana) for log monitoring. Docker + Kubernetes. GitHub Actions CI/CD. Jest for TDD. React frontend for internal dashboards."
+    },
+    {
+      "company": "Echo Star",
+      "role": "Full Stack / React Native Developer",
+      "startDate": "October 2018",
+      "endDate": "April 2020",
+      "context": "Satellite and broadband SaaS platform. React + Redux + Hooks (React Hooks released early 2019) frontend with TypeScript. React Native mobile app for customer-facing features. NestJS + Express backend REST APIs. MongoDB + PostgreSQL. Redis for caching. AWS — EC2, S3, RDS, DynamoDB, ECS, Lambda, API Gateway. Docker + Kubernetes. CI/CD with Jenkins and GitHub Actions. WebSockets + Socket.io for real-time features. GraphQL early adoption. JWT auth. Jest + Mocha testing. Webpack + Babel build tooling. Agile team."
+    },
+    {
+      "company": "Mind Tech Digital",
+      "role": "Node.js / Frontend Developer",
+      "startDate": "January 2017",
+      "endDate": "February 2018",
+      "context": "India-based software consultancy. React v15/v16 frontends with Redux state management. Node.js/Express REST API backends. Angular (v4/v5) for enterprise client dashboards. TypeScript (early adoption). PostgreSQL + MongoDB databases. Redis caching. Docker (early containerization). AWS EC2 + S3. Kafka for event-driven messaging. Webpack + Grunt build tooling. Bootstrap + responsive CSS. NGINX reverse proxy. Git + GitHub. REST API design and integration. npm package management."
+    },
+    {
+      "company": "My Apple Soft",
+      "role": "Software Developer",
+      "startDate": "January 2015",
+      "endDate": "December 2016",
+      "context": "Software development firm in Nagpur, India. Built web applications with early React (v0.13/v0.14), Node.js/Express, HTML5/CSS3, JavaScript ES5/ES6 (Babel). jQuery for interactive UI components. REST APIs with Node.js/Express. MySQL + PostgreSQL. Bootstrap responsive design. AWS EC2 + S3 for deployments. Git + SVN version control. AJAX for dynamic content. npm for package management. Webpack for bundling. Agile methodology."
+    }
+  ],
+
+  "education": [
+    {
+      "school": "Vellore Institute of Technology",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science and Engineering",
+      "startYear": "2014",
+      "endYear": "2018"
+    }
+  ],
+
+  "certifications": [
+    "AWS Certified Solutions Architect – Associate (Amazon Web Services)",
+    "AWS Certified Developer – Associate (Amazon Web Services)",
+    "Google Associate Cloud Engineer (Google Cloud)",
+    "Google Professional Cloud Developer (Google Cloud)",
+    "Meta React Native Developer Certificate (Meta / Coursera)",
+    "MongoDB Certified Developer Associate (MongoDB University)",
+    "HashiCorp Certified: Terraform Associate",
+    "GitHub Actions Certification (GitHub)"
+  ]
+}
