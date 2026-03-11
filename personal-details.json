@@ -3,12 +3,12 @@
   "title": "Full Stack / React Native Developer",
   "email": "sivarama0102200@gmail.com",
   "phone": "+1 (669) 241-0735",
-  "location": "Santa Clara, CA",
+  "location": "United States",
 
   "experiences": [
     {
       "company": "WOW! Colorado",
-      "role": "Full Stack / React Native Developer",
+      "role": "Lead Full Stack / React Native Engineer",
       "startDate": "August 2023",
       "endDate": "Present",
       "context": "Full stack + mobile app development for internet/telecom SaaS platform. React + TypeScript web app and React Native (Expo) mobile app for customers and field techs. NestJS microservices backend with REST and GraphQL/Apollo APIs. FastAPI (Python) for AI/ML services. Built LangChain + RAG pipeline (pgvector + Pinecone) for AI-powered internal knowledge base. LangGraph for agentic AI workflows automating customer support and ticket routing. OpenAI API integration. Supabase for real-time data, auth, and PostgreSQL. Redis for caching and pub/sub. AWS — ECS Fargate, Lambda, S3, CloudFront, RDS, SQS, EventBridge, CloudWatch. Terraform for infra as code. Docker + Kubernetes. CI/CD with GitHub Actions. Prisma ORM. Datadog + Splunk monitoring. Led team of 4. Agile/Scrum."
@@ -55,8 +55,8 @@
       "school": "Vellore Institute of Technology",
       "degree": "Bachelor of Technology",
       "field": "Computer Science and Engineering",
-      "startYear": "2014",
-      "endYear": "2018"
+      "startYear": "2010",
+      "endYear": "2014"
     }
   ],
 
